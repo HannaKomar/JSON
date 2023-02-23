@@ -1,0 +1,17 @@
+{ "Hard skills" : "basics",
+	 "Git" : "gitBash, gitHub",
+	 "Client-server architecture" : "http requests, http responses, web-server, web-client, http status codes",
+	 "SQL queries" : "commands create, delete, drop, insert into, select, from, where, join",
+	 "API testing" : "json, xml, Postman",
+	 "Traffic sniffing" : "Charles, Fiddler",
+	 "DevTools" : "basic skills in Google Crome, FireFox ",
+	 "VPN" : "exploitation,instruments",
+	 "Load testing" : "Jmetr",
+	 "Mobile testing" : "basic knowledges",
+     "Python" : "basic knowledges",
+	 
+	 
+	 {"Theoretical knowledges" : "types of testing, methods, testing levels, documentation,test design techniques, methodologies Agile, Scrum, SDLC, STLC",
+	 "creation of test documentation" : "test cases, check-lists, bug reports and test plans, TRR",	 
+	 }
+}

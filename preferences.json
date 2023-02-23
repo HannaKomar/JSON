@@ -1,0 +1,8 @@
+{ "preferences" :"favourites",
+	 "film" : "Doctor Strange",
+	 "serial" : "The Mentalist",
+	 "country" : "Italy",
+	 {"dish" : "potato",
+	 "season" : summer,	 
+	 }
+}
