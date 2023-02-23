@@ -1,7 +1,11 @@
-{ "id" :"0001",
-	 "tittle" : " user login error",
-	 
-	 {"attachments" : "error.wmv",
-	 "reporter" : Hanna,	 
+{ "id":"0001",
+	 "summary" : "user login error",
+         "priority" : "ASAP",
+         "severity" : "critical",
+         "environment" : "windows 10 Pro, Google Chrome",
+         "attachment" : "error.wmv",
+	 {"description" : "user can't login",
+	 "actual result" : "button login is not clickable",
+         "expected result" : "user logins via button login",
 	 }
 }
