@@ -5,10 +5,10 @@
 	"food" : "cheese",
 	"season" : "summer"
 	"country" : {
-		   "on_trip" : "Italy",
+	       "on_trip" : "Italy",
 	       "to_visit" : "UK",
 	       "to_stay_for_a_while" : "Spain",
 	       "to_live" : "Poland",
 	       "my_native" : "Belarus"
-	}
+   }
 }
