@@ -1,7 +1,6 @@
-{ "person" :"Hanna Komar",
+{ 
+     "person" :"Hanna Komar",
 	 "age" : 36,
-	 "pet" : "cat",
-	 {"name" : "Manya",
-	 "age" : 3	
-	 }
+	 "pet" : "there is no",
+	 "salary" : "800$"
 }
