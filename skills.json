@@ -6,10 +6,10 @@
 	"API_testing" : "json, xml, Postman",
 	"Traffic_sniffing" : "Charles, Fiddler",
 	"DevTools" : "basic skills in Google Crome, FireFox ",
-	"VPN" : "exploitation,instruments",
+	"VPN" : "exploitation, instruments",
 	"Load_testing" : "Jmetr",
-	"Mobile_testing" : "basic knowledges",
-        "Python" : "basic knowledges",
+	"Mobile_testing" : "basic knowledge",
+        "Python" : "basic knowledge",
 	"Theory" : "types of testing, methods, testing levels, test design techniques, methodologies, SDLC, STLC",
 	"Creation_of_test_documentation" : "test cases, check-lists, bug reports and test plans, TRR"	 
 }
