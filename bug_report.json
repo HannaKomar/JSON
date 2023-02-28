@@ -8,7 +8,7 @@
 	                 "step_1" : "click on the login button",
 	                 "step_2" : "fill in the user's email and password field with valid data",
 	                 "step_3 " : "click the continue button",
-    }
+   }
    "expected_result" : "user logins via button login",
    "actual_result" : "button login is not clickable",
    "attachment" : "error.wmv"

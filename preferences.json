@@ -1,14 +1,14 @@
 { 
-     "preferences" :"favourites",
-	 "film" : "Doctor Strange",
-	 "serial" : "The Mentalist",
-	 "food" : "cheese",
-	 "season" : "summer"
-	 "country" : {
-		    "on_trip" : "Italy",
-	        "to_visit" : "The UK",
-	        "to_stay_for_a_while" : "Spain",
-	        "to_live" : "Poland",
-	        "my_native" : "Belarus"
-	 }
+    "preferences" :"favourites",
+	"movie" : "Doctor Strange",
+	"series" : "The Mentalist",
+	"food" : "cheese",
+	"season" : "summer"
+	"country" : {
+		   "on_trip" : "Italy",
+	       "to_visit" : "The UK",
+	       "to_stay_for_a_while" : "Spain",
+	       "to_live" : "Poland",
+	       "my_native" : "Belarus"
+	}
 }
