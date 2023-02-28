@@ -1,5 +1,5 @@
 { 
-    "Skills" : "basics",
+        "Skills" : "basics",
 	"Git" : "gitBash, gitHub",
 	"Client-server_architecture" : "http requests, http responses, web-server, web-client, http status codes",
 	"SQL_queries" : "commands create, delete, drop, insert into, select, from, where, join",
@@ -9,7 +9,7 @@
 	"VPN" : "exploitation,instruments",
 	"Load_testing" : "Jmetr",
 	"Mobile_testing" : "basic knowledges",
-    "Python" : "basic knowledges",
+        "Python" : "basic knowledges",
 	"Theory" : "types of testing, methods, testing levels, test design techniques, methodologies, SDLC, STLC",
 	"Creation_of_test_documentation" : "test cases, check-lists, bug reports and test plans, TRR"	 
 }
